@@ -328,7 +328,7 @@ with header:
                     ]
                 },
             )
-        st.plotly_chart(fig_day_stay)
+            st.plotly_chart(fig_day_stay)
 
         st.write(
             """<h3 style:'text-align:center'>Number of arrivals which have already booked a hotel other than hotel located in Sepang""",
